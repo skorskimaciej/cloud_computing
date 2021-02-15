@@ -1,0 +1,14 @@
+.leaflet-container{
+
+    width: 100vw;
+    height: 50vh;
+}
+
+.header {
+  padding: 120px;
+  text-align: right;
+  background: #1abc9c;
+  color: white;
+  font-size: 15px;
+}
+

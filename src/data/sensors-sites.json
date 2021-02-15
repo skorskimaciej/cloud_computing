@@ -1,0 +1,26 @@
+[
+  {
+    "datetime": "14-02-2021 13:09:47",
+    "cords": {
+    "Longitude": 19.915842549880345,
+    "Latitude": 50.05947685191071
+    },
+    "sensorID": "s1",
+    "humidity": "74.34",
+    "id": 0,
+    "temperature": "26.92",
+    "PM10": "16.90"
+  },
+    {
+    "datetime": "14-02-2021 13:09:47",
+    "cords": {
+    "Longitude": 19.99324000194078,
+    "Latitude": 50.07072205566389
+    },
+    "sensorID": "s2",
+    "humidity": "75.34",
+    "id": 1,
+    "temperature": "27.92",
+    "PM10": "16.40"
+  }
+ ]
